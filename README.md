@@ -1,5 +1,9 @@
 ## Hello! I'm dhanraj mali 👋
 
+🎓 MCA Student | 💻 Full Stack Developer
+🌟 Skilled in Java, MERN Stack, and PHP
+🌱 Constantly learning and exploring new technologies.
+
 <!--
 **dhanraj644/dhanraj644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
