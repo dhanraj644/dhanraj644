@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Wearit (E-comerce)](wearit-eosin.vercel.app)
 
-- 🌱 I’m currently learning **mearn satck**
+- 🌱 Constantly learning and exploring new technologies.
 
 - 👨‍💻 Portfolio -> [portfolio-eight-zeta-71.vercel.app/](portfolio-eight-zeta-71.vercel.app/)
 
