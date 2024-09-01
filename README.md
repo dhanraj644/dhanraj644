@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm dhanraj mali</h1>
 <h2 align="center"># 💫 About Me:</h2>
- ##🎓 MCA Student | 💻 Full Stack Developer
+
 
 - 🔭 I’m currently working on [Wearit (E-comerce)](wearit-eosin.vercel.app)
 
