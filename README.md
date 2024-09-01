@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm dhanraj mali</h1>
 <h3 align="center">🎓 MCA Student | 💻 Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanraj644&label=Profile%20views&color=0e75b6&style=flat" alt="dhanraj644" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanraj644" alt="dhanraj644" /></a> </p>
-
 - 🔭 I’m currently working on [Wearit (E-comerce)](wearit-eosin.vercel.app)
 
 - 🌱 I’m currently learning **mearn satck**
