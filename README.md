@@ -6,7 +6,7 @@
 
 - 🌱 Constantly learning and exploring new technologies.
 
-- 👨‍💻 Portfolio -> [portfolio-eight-zeta-71.vercel.app/](portfolio-eight-zeta-71.vercel.app/)
+- 👨‍💻 Portfolio -> [https://portfolio-eight-zeta-71.vercel.app/](https://portfolio-eight-zeta-71.vercel.app/)
 
 - 💬 Ask me about **react, java , php**
 
