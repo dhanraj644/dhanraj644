@@ -14,8 +14,8 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://twitter.com/dhanraj mali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhanraj mali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhanraj mali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanraj mali" height="30" width="40" /></a>
+<a href="https://x.com/Rajmali644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhanraj mali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhanraj-mali-91739822a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanraj mali" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhanraj644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhanraj644" height="30" width="40" /></a>
 </p>
 
