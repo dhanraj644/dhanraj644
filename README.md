@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm dhanraj mali</h1>
+<h1 align="center">Hi 👋, I'm dhanraj mali </h1>
 <h2 align="center"># 💫 About Me:</h2>
 
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 Portfolio -> [Portfolio](https://portfolio-eight-zeta-71.vercel.app/)
 
-- 💬 Ask me about **react, java , php**
+- 💬 Ask me about **react, java , php ,DSA**
 
 - 📫 How to reach me **malidhanraj644@gmail.com**
 
