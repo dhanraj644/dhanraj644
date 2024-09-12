@@ -8,7 +8,7 @@
 
 - 👨‍💻 Portfolio -> [Portfolio](https://portfolio-eight-zeta-71.vercel.app/)
 
-- 💬 Ask me about **react, java , php ,DSA**
+- 💬 Ask me about **react, java , php ,DSA , node js**
 
 - 📫 How to reach me **malidhanraj644@gmail.com**
 
