@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm dhanraj mali </h1>
-<h2 align="center"># 💫 About Me:</h2>
+<h2 align="center"> 💫 About Me:</h2>
 
 
 - 🔭 I’m currently working on [Wearit (E-comerce)](https://wearit-eosin.vercel.app/)
