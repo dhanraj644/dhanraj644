@@ -1,42 +1,241 @@
-<h1 align="center">Hi 👋, I'm dhanraj mali </h1>
-<h2 align="center"> 💫 About Me:</h2>
+<h1 align="center">Hi 👋, I'm Dhanraj Mali</h1>
 
-- 🌱 Constantly learning and exploring new technologies.
+<h3 align="center">MERN Stack Developer | Full Stack Developer</h3>
 
-- 👨‍💻 Portfolio    [Portfolio](https://portfolio-eight-zeta-71.vercel.app/)
-
-- 💬 Ask me about **react, java , php ,DSA , node js**
-
-- 📫 How to reach me **malidhanraj644@gmail.com**
-
-## 🌐 Socials:
-<p align="left">
-<a href="https://x.com/Rajmali644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhanraj mali" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dhanraj-mali-91739822a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanraj mali" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhanraj644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhanraj644" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://portfolio-eight-zeta-71.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/dhanraj-mali-91739822a/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/dhanraj644/">LeetCode</a>
 </p>
 
-<h3 align="left"> Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-      
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>   </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhanraj644&theme=dark&hide_border=false&include_all_commits=true&count_private=false)                            
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhanraj644&theme=dark&hide_border=false)
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanraj644&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ---
-[![](https://visitcount.itsvg.in/api?id=dhanraj644&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 👨‍💻 About Me
+
+I'm a **MERN Stack Developer** passionate about building modern, scalable, and user-friendly web applications.
+
+I have hands-on experience developing full-stack applications using **React.js, Node.js, Express.js, MongoDB, MySQL, REST APIs, Redux, and Socket.io**.
+
+* 🔭 Currently working on improving my full-stack development skills
+* 🌱 Currently learning **TypeScript, Redis, Docker & System Design**
+* 🧩 Regularly practicing **Data Structures & Algorithms**
+* 💻 Interested in **Backend Development, APIs, Real-Time Applications & System Design**
+* 💼 **Open to Work**
+* 📍 Open to opportunities in **Ahmedabad, Jaipur, Pune & Remote**
+* 📫 **Email:** `malidhanraj644@gmail.com`
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  </a>
+  <a href="https://redux.js.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+  </a>
+</p>
+
+### Backend
+
+<p align="left">
+  <a href="https://nodejs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js"/>
+  </a>
+  <a href="https://socket.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="40" height="40" alt="Socket.io"/>
+  </a>
+</p>
+
+### Databases
+
+<p align="left">
+  <a href="https://www.mongodb.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  </a>
+</p>
+
+### Tools & Technologies
+
+<p align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+  </a>
+  <a href="https://vercel.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Application
+
+A full-stack e-commerce application with product, cart, order, review, and authentication functionality.
+
+**Features:**
+
+* 🔐 JWT-based authentication
+* 👤 User authentication & authorization
+* 🛍️ Product management
+* 🎨 Product variants
+* 🛒 Shopping cart
+* 📦 Order & order-item management
+* ⭐ Product reviews
+* 🔌 RESTful APIs
+* 🗄️ MySQL database with Sequelize
+
+**Tech Stack:** React.js · Node.js · Express.js · MySQL · Sequelize · Redux
+
+---
+
+### 💬 Real-Time Chat Application
+
+A real-time chat application built with Socket.io for instant communication between users.
+
+**Features:**
+
+* 🔐 User authentication
+* 💬 Real-time messaging
+* 🟢 Online/offline status
+* ⚡ Socket.io communication
+* 🔌 REST APIs
+* 📱 Responsive interface
+
+**Tech Stack:** React.js · Node.js · Express.js · MongoDB · Socket.io
+
+---
+
+### 🏢 Human Resource Management System
+
+A full-stack HRMS application designed to manage employees and common HR operations.
+
+**Features:**
+
+* 👥 Employee management
+* 🔐 Role-Based Access Control
+* 🏢 Departments & designations
+* 🕐 Attendance management
+* 📝 Leave management
+* 💰 Payroll management
+* 📄 Document management
+* 💻 Asset management
+* 📢 Notices
+* 📅 Holidays
+
+**Tech Stack:** React.js · Node.js · Express.js · MongoDB · MySQL
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+I regularly practice **Data Structures & Algorithms** to improve my problem-solving skills and prepare for software engineering interviews.
+
+### Topics I'm Practicing
+
+* Arrays & Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Binary Search
+* Linked Lists
+* Stack & Queue
+* Trees
+* Graphs
+* Recursion
+* Dynamic Programming
+
+🔗 **[View my LeetCode Profile](https://leetcode.com/u/dhanraj644/)**
+
+---
+
+## 📚 Currently Learning
+
+* TypeScript
+* Redis
+* Docker
+* Advanced Node.js
+* Backend Architecture
+* System Design
+* Scalable REST APIs
+* Performance Optimization
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanraj644&show_icons=true&theme=tokyonight&hide_border=true" alt="Dhanraj's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanraj644&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dhanraj644&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhanraj-mali-91739822a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/dhanraj644/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30" alt="LeetCode"/>
+  </a>
+  <a href="https://x.com/Rajmali644" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" alt="X"/>
+  </a>
+</p>
+
+📧 **Email:** [malidhanraj644@gmail.com](mailto:malidhanraj644@gmail.com)
+
+🌐 **Portfolio:** [portfolio-eight-zeta-71.vercel.app](https://portfolio-eight-zeta-71.vercel.app/)
+
+---
+
+## 💼 Open to Work
+
+**MERN Stack Developer | Node.js Developer | Full Stack Developer**
+
+📍 **Ahmedabad · Jaipur · Pune · Remote**
+
+I'm currently looking for opportunities where I can contribute to real-world projects, work with a strong development team, and continue growing as a software engineer.
+
+If you're hiring or know about a suitable opportunity, feel free to reach out.
+
+---
+
+⭐ **Thanks for visiting my profile!**
