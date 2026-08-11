@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm dhanraj mali </h1>
 <h2 align="center"> 💫 About Me:</h2>
 
-
-- 🔭 I’m currently working on [Wearit (E-comerce)](https://wearit-eosin.vercel.app/)
-
 - 🌱 Constantly learning and exploring new technologies.
 
 - 👨‍💻 Portfolio    [Portfolio](https://portfolio-eight-zeta-71.vercel.app/)
